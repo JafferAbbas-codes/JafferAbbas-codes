@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <p>
 <a href="https://www.linkedin.com/in/syed-muhammad-jaffer-abbas-3a4ba719b/"><img src="https://img.shields.io/badge/-Syed%20Muhammad%20Jaffer%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jaffer@xord.one"><img src="https://img.shields.io/badge/-jaffer@xord.one-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:smuhammadjafferabbas@gmail.com"><img src="https://img.shields.io/badge/-smuhammadjafferabbas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jaffy_here/"><img src="https://img.shields.io/badge/-jaffy_here-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/Jafffyy"><img src="https://img.shields.io/badge/-Jafffyy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://medium.com/@smuhammadjafferabbas"><img src="https://img.shields.io/badge/-Jaffer-BD081C?style=flat&logo=Medium&logoColor=white"/></a>
